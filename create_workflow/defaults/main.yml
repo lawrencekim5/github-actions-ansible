@@ -1,0 +1,5 @@
+---
+access_token: "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"
+URL: "https://api.github.com/repos/{{ GITHUB_USERNAME }}/workflow/contents/.github/workflows/docker.yml"
+GITHUB_USERNAME: "dylwong"
+GITHUB_EMAIL: "dywong@redhat.com"
