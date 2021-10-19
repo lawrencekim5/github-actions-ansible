@@ -3,7 +3,7 @@
 
 secretname="lawrencekim5"
 secretpass="OrcaWinging5"
-
+ansible_pythone_interpreter=/usr/bin/python3
 
 [bastions]
 bastion ansible_ssh_user=root ansible_ssh_host=10.0.2.5
