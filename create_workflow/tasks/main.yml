@@ -8,6 +8,6 @@
         "message": "create github action",
         "content": "{{ lookup('template', 'workflow.j2') | string | b64encode }}" 
         }
-    access_token: "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"
+    access_token: "g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"
   register: response
         
