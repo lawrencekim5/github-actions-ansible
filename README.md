@@ -25,6 +25,6 @@ When you're ready to execute this, do the following
 
 
 ```sh
-ansible-playbook -i inventory deploy_cluster.yml
+ansible-playbook -i inventory create_workflow.yml
 ```
 # github-actions-ansible
