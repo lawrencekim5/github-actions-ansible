@@ -1,0 +1,13 @@
+---
+# tasks file for create_cluster
+
+- name: Create workflow
+  github_request:
+    url: "{{ URL }}"
+    data: {
+        "message": "create github action",
+        "content": "{{ lookup('template', 'workflow.j2') | string | b64encode }}" 
+        }
+    access_token: "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"
+  register: response
+        
