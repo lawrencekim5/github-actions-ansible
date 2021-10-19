@@ -2,5 +2,5 @@
 ---
 access_token: ""
 URL: "https://api.github.com/repos/{{ GITHUB_USERNAME }}/workflow/contents/.github/workflows/docker.yml"
-GITHUB_USERNAME: "dylwong"
-GITHUB_EMAIL: "dywong@redhat.com"
+GITHUB_USERNAME: "lawrencekim5"
+GITHUB_EMAIL: "lawrence.kim5@gmail.com"
