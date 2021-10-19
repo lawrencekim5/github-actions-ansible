@@ -1,0 +1,8 @@
+---
+- name: Create git workflow
+  hosts: localhost
+  connection: local
+  roles:
+    - create_workflow
+
+ 
