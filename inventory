@@ -2,7 +2,7 @@
 [all:vars]
 
 secretname="lawrencekim5"
-secretpass="OrcaWinging5"
+secretpass="PASSWORDGOESHERE"
 ansible_pythone_interpreter=/usr/bin/python3
 
 [bastions]
